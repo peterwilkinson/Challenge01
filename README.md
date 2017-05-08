@@ -35,5 +35,5 @@
 ## 7. Time and resources 
   1. Use your strengths to accomplish the 90 min task
   1. Use the strengths of those around you (programmers, graphic artists, sound designers, 3D modellers, etc). Do what you can based on who shows up.
-  1. Use the basic project to get started, and mentor guidance.
+  1. Use the basic project to get started, and mentor guidance. [Download the project zip file now!](https://github.com/peterwilkinson/Challenge01/archive/master.zip "Challege01 master.zip download")
   1. Make a complete, playable, fun little work at the end of 90 minutes, no “Big plans” here. Work lean and agile. Have fun to make fun, we’re doing this for patients of all ages to enjoy. Every bit helps!
