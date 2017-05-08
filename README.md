@@ -32,8 +32,8 @@
      1. Have fun with what they can be; kittens, old-fashioned targets with fun sounds, etc
      1. You could be removing a pest (shooting targeting to remove), practicing (hitting leaving a mark) or saving something (shoot and pull them in)
      1. You can also have a mix of good and bad targets (like the bombs in Fruit Ninja)
- 1. Time and resources 
-     1. Use your strengths to accomplish the 90 min task
-     1. Use the strengths of those around you (programmers, graphic artists, sound designers, 3D modellers, etc). Do what you can based on who shows up.
-     1. Use the basic project to get started, and mentor guidance.
-     1. Make a complete, playable, fun little work at the end of 90 minutes, no “Big plans” here. Work lean and agile. Have fun to make fun, we’re doing this for patients of all ages to enjoy. Every bit helps!
+## 7. Time and resources 
+  1. Use your strengths to accomplish the 90 min task
+  1. Use the strengths of those around you (programmers, graphic artists, sound designers, 3D modellers, etc). Do what you can based on who shows up.
+  1. Use the basic project to get started, and mentor guidance.
+  1. Make a complete, playable, fun little work at the end of 90 minutes, no “Big plans” here. Work lean and agile. Have fun to make fun, we’re doing this for patients of all ages to enjoy. Every bit helps!
